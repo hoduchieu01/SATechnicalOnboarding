@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/2afcc3fe-925d-45ca-aa04-ac99e15ed91c/resourceGroups/mlsa-group/providers/Microsoft.Web/sites/static-web-app-hoduchieu",
+    "appService.deploySubpath": "."
+}
